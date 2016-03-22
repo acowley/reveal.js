@@ -50,12 +50,17 @@ body {
   word-wrap: break-word; }
 
 .reveal h1 {
-  font-size: 2.5em; }
+  font-size: 2.5em;
+  color: #981E32;
+}
 
 .reveal h2 {
+  /* color: #08469B; */
+  color: #002C77;
   font-size: 1.6em; }
 
 .reveal h3 {
+  color: #4E8DE3;
   font-size: 1.3em; }
 
 .reveal h4 {
